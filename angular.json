@@ -13,7 +13,6 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "baseHref": "/assignment-3-sections-1-and-2-Zach-Adolphsen/",
             "outputPath": "dist/assignment-3-homes-app",
             "index": "src/index.html",
             "browser": "src/main.ts",
